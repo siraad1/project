@@ -1,0 +1,18 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+}
+ol{
+  line-height: 30px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
